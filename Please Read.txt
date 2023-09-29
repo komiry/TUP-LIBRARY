@@ -1,0 +1,15 @@
+Library Management System
+
+
+This python program requires other essential resources such as the database and images, 
+if the py file doesn't work on your end, please reach us at here on MS Teams.
+
+We only submit py file as per instructions,
+and will provide the database and images during the presentation
+
+Your Dearest Student,
+Ryan Dela Cruz
+Keziah Ysabel Sta. Ines
+BSIS 2AB
+
+Thank You!
